@@ -1,0 +1,1 @@
+This project holds the report of my manual testing of the DemoBlaze e-commerce website. It comprises test scenarios and test cases based on FRS, and the results of the execution of these test cases are stored in an Excel sheet.
